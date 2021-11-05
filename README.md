@@ -1,2 +1,2 @@
 # Trabalho1AED
-DFDFHDFUH
+Descrição : Sistema de academia em C# que terá os componentes de tempo, preço, meta, tipo de modalidade e faltas para cumprir a meta. Class modalidade, atributo: tipo, tempo, preço, métodos: preços de cada tipo e combo, calculo do preço por tempo. Class evolução, atributos treinos feitos, treinos faltados , meta, métodos: base em quantos treinos para estipular a meta, e treinos para chegar a meta. 
