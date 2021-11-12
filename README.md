@@ -1,7 +1,9 @@
 # Trabalho1AED
-Descrição : Sistema de academia em C# que terá class matricula que vai coletar os dados acerca do usuário a class treinos que vai especificar o que vai ocorrer nas modalidades, class main que operar as outras classes.
+Descrição : Sistema de academia em C# que vai coletar os dados acerca do usuário para geração de uma matrícula, além disso, espicificará os treinos semanais  das modalidades, tambem contará com um banco de dados em formato ".txt" que guardará os dados para trasportalos de uma classe para outras.
 
-Relatório 1:  Foi iniciado um brainstorm sobre o planejamento dos atribuitos e tipos de métodos que serao implementado no projetos eo que deve ser seguido para a conclusão do projeto.
+Link backup Repl.it: https://replit.com/@ArthurKus12/IdealWarlikeFiles#main.cs
+
+Relatório 1:  Foi iniciado um brainstorming sobre o planejamento dos atribuitos e tipos de métodos que serao implementado no projetos eo que deve ser seguido para a conclusão do projeto.
 
 Relatorio 2:Termino da primeira class ea segunda classe em andamento para o final.
 
